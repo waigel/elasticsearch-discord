@@ -1,2 +1,2 @@
 # elasticsearch-discord
-Index your Discord server channel messages with Elasticsearch
+Index your Discord server messages with Elasticsearch
